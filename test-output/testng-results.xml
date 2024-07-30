@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-30T14:21:14 IST" name="mysuite" finished-at="2024-07-30T14:21:32 IST" duration-ms="18321">
+    <groups>
+      <group name="regression">
+        <method signature="TC_001LoginPage.login()[pri:0, instance:testCases.TC_001LoginPage@2c9399a4]" name="login" class="testCases.TC_001LoginPage"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="Tc_01RegistrationPage.test()[pri:0, instance:testCases.Tc_01RegistrationPage@1c98290c]" name="test" class="testCases.Tc_01RegistrationPage"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_001LoginPage.login()[pri:0, instance:testCases.TC_001LoginPage@2c9399a4]" name="login" class="testCases.TC_001LoginPage"/>
+        <method signature="Tc_01RegistrationPage.test()[pri:0, instance:testCases.Tc_01RegistrationPage@1c98290c]" name="test" class="testCases.Tc_01RegistrationPage"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-07-30T14:21:14 IST" name="my test" finished-at="2024-07-30T14:21:32 IST" duration-ms="18321">
+      <class name="testCases.Tc_01RegistrationPage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.Tc_01RegistrationPage@1c98290c]" started-at="2024-07-30T14:21:24 IST" name="setup" finished-at="2024-07-30T14:21:30 IST" duration-ms="5959" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:testCases.Tc_01RegistrationPage@1c98290c]" started-at="2024-07-30T14:21:30 IST" name="test" finished-at="2024-07-30T14:21:32 IST" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.Tc_01RegistrationPage@1c98290c]" started-at="2024-07-30T14:21:32 IST" name="teardown" finished-at="2024-07-30T14:21:32 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.Tc_01RegistrationPage -->
+      <class name="testCases.TC_001LoginPage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001LoginPage@2c9399a4]" started-at="2024-07-30T14:21:14 IST" name="setup" finished-at="2024-07-30T14:21:22 IST" duration-ms="7840" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:testCases.TC_001LoginPage@2c9399a4]" started-at="2024-07-30T14:21:22 IST" name="login" finished-at="2024-07-30T14:21:24 IST" duration-ms="1649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_001LoginPage@2c9399a4]" started-at="2024-07-30T14:21:24 IST" name="teardown" finished-at="2024-07-30T14:21:24 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC_001LoginPage -->
+    </test> <!-- my test -->
+  </suite> <!-- mysuite -->
+</testng-results>

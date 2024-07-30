@@ -1,0 +1,38 @@
+2024-07-30 14:19:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ratrames\eclipse-workspace\OpenCart01\Master.xml
+
+2024-07-30 14:21:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ratrames\eclipse-workspace\OpenCart01\Master.xml
+
+2024-07-30 14:21:22 INFO  TC_001LoginPage:13 - homepage started
+2024-07-30 14:21:23 INFO  TC_001LoginPage:17 - login page is started
+2024-07-30 14:21:23 INFO  TC_001LoginPage:22 - my account page is started
+2024-07-30 14:21:23 INFO  TC_001LoginPage:27 - test is passed
+2024-07-30 14:21:30 INFO  Tc_01RegistrationPage:17 - home page is opened
+2024-07-30 14:21:31 INFO  Tc_01RegistrationPage:20 - registration page is opened
+2024-07-30 14:21:32 INFO  Tc_01RegistrationPage:33 - test is passed
+2024-07-30 14:21:32 INFO  Tc_01RegistrationPage:46 - test is executed
+2024-07-30 14:55:29 INFO  TC_001LoginPage:13 - homepage started
+2024-07-30 14:55:30 INFO  TC_001LoginPage:17 - login page is started
+2024-07-30 14:55:31 INFO  TC_001LoginPage:22 - my account page is started
+2024-07-30 14:55:31 INFO  TC_001LoginPage:27 - test is passed
+2024-07-30 14:55:37 INFO  Tc_01RegistrationPage:17 - home page is opened
+2024-07-30 14:55:38 INFO  Tc_01RegistrationPage:20 - registration page is opened
+2024-07-30 14:55:39 INFO  Tc_01RegistrationPage:33 - test is passed
+2024-07-30 14:55:39 INFO  Tc_01RegistrationPage:46 - test is executed
+2024-07-30 15:30:46 INFO  TC_001LoginPage:13 - homepage started
+2024-07-30 15:30:46 INFO  TC_001LoginPage:17 - login page is started
+2024-07-30 15:30:47 INFO  TC_001LoginPage:22 - my account page is started
+2024-07-30 15:30:47 INFO  TC_001LoginPage:27 - test is passed
+2024-07-30 15:31:17 INFO  Tc_01RegistrationPage:17 - home page is opened
+2024-07-30 15:31:18 INFO  Tc_01RegistrationPage:20 - registration page is opened
+2024-07-30 15:31:19 INFO  Tc_01RegistrationPage:33 - test is passed
+2024-07-30 15:31:19 INFO  Tc_01RegistrationPage:46 - test is executed
+2024-07-30 15:32:59 INFO  TC_001LoginPage:13 - homepage started
+2024-07-30 15:33:00 INFO  TC_001LoginPage:17 - login page is started
+2024-07-30 15:33:01 INFO  TC_001LoginPage:22 - my account page is started
+2024-07-30 15:33:01 INFO  TC_001LoginPage:27 - test is passed
+2024-07-30 15:33:09 INFO  Tc_01RegistrationPage:17 - home page is opened
+2024-07-30 15:33:10 INFO  Tc_01RegistrationPage:20 - registration page is opened
+2024-07-30 15:33:11 INFO  Tc_01RegistrationPage:33 - test is passed
+2024-07-30 15:33:11 INFO  Tc_01RegistrationPage:46 - test is executed
